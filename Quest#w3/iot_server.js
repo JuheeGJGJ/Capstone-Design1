@@ -1,3 +1,6 @@
+// IoT Server
+// graph, url 통한 data 전송, data 보기 가능!
+
 var express = require('express');
 var app = express();
 fs = require('fs');
